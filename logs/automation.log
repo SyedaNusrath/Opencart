@@ -1,0 +1,48 @@
+2024-10-16 12:07:52 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Admin\AppData\Local\Temp\testng-eclipse--351330852\testng-customsuite.xml"
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 16 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 30 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-16 12:07:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--351330852\testng-customsuite.xml
+
+2024-10-16 12:07:53 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 13 ms.
+2024-10-16 12:08:01 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest*****
+2024-10-16 12:08:02 INFO  TC001_AccountRegistrationTest:24 - clicked on my account link....
+2024-10-16 12:08:03 INFO  TC001_AccountRegistrationTest:27 - clicked on registration link
+2024-10-16 12:08:03 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...
+2024-10-16 12:08:06 INFO  TC001_AccountRegistrationTest:45 - checking the message
+2024-10-16 12:08:07 ERROR TC001_AccountRegistrationTest:54 - Test failed...
+2024-10-16 12:08:07 DEBUG TC001_AccountRegistrationTest:55 - Debug logs...
+2024-10-16 12:08:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@47d7bfb3: 131 ms
+2024-10-16 12:08:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@15cea7b0: 23 ms
+2024-10-16 12:08:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2bac9ba: 19 ms
+2024-10-16 12:08:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5e4fa1da: 11 ms
+2024-10-16 12:08:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@70e02081: 59 ms
+2024-10-16 12:08:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@9d200de: 0 ms
